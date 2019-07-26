@@ -1,0 +1,6 @@
+C:\Users\sramdurg\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\ShoppingWebsite.dll
+C:\Users\sramdurg\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\ShoppingWebsite.pdb
+C:\Users\sramdurg\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\ShoppingWebsite.csprojAssemblyReference.cache
+C:\Users\sramdurg\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\ShoppingWebsite.csproj.CoreCompileInputs.cache
+C:\Users\sramdurg\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\ShoppingWebsite.dll
+C:\Users\sramdurg\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\ShoppingWebsite.pdb

@@ -1,0 +1,16 @@
+C:\Users\sramdurg\source\repos\ShoppingWebsite\PaymentMethodTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sramdurg\source\repos\ShoppingWebsite\PaymentMethodTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sramdurg\source\repos\ShoppingWebsite\PaymentMethodTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sramdurg\source\repos\ShoppingWebsite\PaymentMethodTest\bin\Debug\PaymentMethodTest.dll
+C:\Users\sramdurg\source\repos\ShoppingWebsite\PaymentMethodTest\bin\Debug\PaymentMethodTest.pdb
+C:\Users\sramdurg\source\repos\ShoppingWebsite\PaymentMethodTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sramdurg\source\repos\ShoppingWebsite\PaymentMethodTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sramdurg\source\repos\ShoppingWebsite\PaymentMethodTest\bin\Debug\ShoppingWebsite.dll
+C:\Users\sramdurg\source\repos\ShoppingWebsite\PaymentMethodTest\bin\Debug\ShoppingWebsite.pdb
+C:\Users\sramdurg\source\repos\ShoppingWebsite\PaymentMethodTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sramdurg\source\repos\ShoppingWebsite\PaymentMethodTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sramdurg\source\repos\ShoppingWebsite\PaymentMethodTest\obj\Debug\PaymentMethodTest.csprojAssemblyReference.cache
+C:\Users\sramdurg\source\repos\ShoppingWebsite\PaymentMethodTest\obj\Debug\PaymentMethodTest.csproj.CoreCompileInputs.cache
+C:\Users\sramdurg\source\repos\ShoppingWebsite\PaymentMethodTest\obj\Debug\PaymentMethodTest.csproj.CopyComplete
+C:\Users\sramdurg\source\repos\ShoppingWebsite\PaymentMethodTest\obj\Debug\PaymentMethodTest.dll
+C:\Users\sramdurg\source\repos\ShoppingWebsite\PaymentMethodTest\obj\Debug\PaymentMethodTest.pdb
